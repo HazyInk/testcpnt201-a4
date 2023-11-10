@@ -3,7 +3,7 @@ import javascriptLogo from '../images/javascript.svg'
 import viteLogo from '../images/vite.svg'
 import loader from '../images/loading.png'
 import { setupCounter } from './counter.js'
-import dayjs from '../cpnt201-a4/node_modules/dayjs'
+import dayjs from 'dayjs'
 
 document.querySelector('#app').innerHTML = `
   <div>
